@@ -169,5 +169,5 @@ function sendMessage() {
 
 const chatBox = document.getElementById('chat-box');
 // chatBox.insertAdjacentHTML('beforeend', gradePercentageTable);
-displayMessage("Welcome to GPA Calculator! Let's start with your percentages:", 'bot');
+displayMessage("Welcome to GPA Calculator! Made By M.Ahmed with love ❤️:", 'bot');
 askForPercentage();
